@@ -1,0 +1,12 @@
+{
+    "name": "paginate",
+    "version": "0.2.0",
+    "title": "Filterable Pagination",
+    "author": {"name": "Bryan Cua"},
+    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+    "dependencies": {"jquery": "2.0.2"},
+    "description": "$.fn.paginate plugin is a lightweight jQuery plugin that allows you to perform pagination on any list or table. It also allows setting which entries to skip or to show.",
+    "homepage": "http://js.lovelotte.net/jQ/paginate",
+    "demo": "http://js.lovelotte.net/jQ/paginate/demo.php",
+    "keywords": ["Page", "Table", "List", "Paginate"]
+}
