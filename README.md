@@ -10,3 +10,10 @@ $.fn.paginate also allows you to set which elements to skip or which elements (o
 Homepage: http://js.lovelotte.net/jQ/paginate
 
 Demo: http://js.lovelotte.net/jQ/paginate/demo.php
+
+Changelog
+=========
+
+0.2.2
+-----
+Bug Fix: last row didn't hide when going backwards. 
