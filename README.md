@@ -9,4 +9,4 @@ $.fn.paginate also allows you to set which elements to skip or which elements (o
 
 Homepage: http://js.lovelotte.net/jQ/paginate
 
-Demo: http://js.lovelotte.net/jQ/demo.php
+Demo: http://js.lovelotte.net/jQ/paginate/demo.php
