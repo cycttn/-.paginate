@@ -171,7 +171,7 @@
         
         //Hide what needs to be hidden *after* the current showing list; 
         if( i < this.en ){
-            for(var j=i; j<this.en+1; j++){
+            for(var j=i; j<=this.en; j++){
                 if( this.sh.length ) $els.eq(this.sh[j]).addClass('hidden');
                 else $els.eq(j).addClass('hidden');
             }

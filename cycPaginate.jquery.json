@@ -1,6 +1,6 @@
 {
     "name": "cycPaginate",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "title": "Filterable Pagination",
     "author": {"name": "Bryan Cua"},
     "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
